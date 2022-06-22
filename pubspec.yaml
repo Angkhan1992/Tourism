@@ -1,0 +1,61 @@
+name: tourlao
+description: Lao tourism application.
+
+publish_to: 'TourLao'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  flutter_svg: ^0.22.0
+  http: any
+  shared_preferences: any
+  cached_network_image: any
+  carousel_slider: any
+  local_auth: any
+  image_picker: any
+  permission_handler: any
+  share: any
+
+#  google_sign_in: any
+  sign_in_with_apple: any
+  jwt_decode: any
+  flutter_facebook_auth: any
+
+  intl: ^0.17.0
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/jsons/
+    - assets/videos/
+
+  fonts:
+    - family: Muli
+      fonts:
+        - asset: assets/fonts/muli_medium.ttf
+          weight: 400
+        - asset: assets/fonts/muli_semibold.ttf
+          weight: 600
+        - asset: assets/fonts/muli_bold.ttf
+          weight: 700
+
+flutter_intl:
+  main_locale: en_US
+  enabled: true

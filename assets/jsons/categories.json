@@ -1,0 +1,86 @@
+[
+  {
+    "id" : "3",
+    "name" : "Hotel / Guest House",
+    "desc" : "Finding a good hotel or guest house around your place",
+    "amount" : "13",
+    "image" : "assets/icons/ic_hotel.svg"
+  },
+  {
+    "id" : "5",
+    "name" : "Hospital / Clinic",
+    "desc" : "Finding a good health service around your place",
+    "amount" : "28",
+    "image" : "assets/icons/ic_hospital.svg"
+  },
+  {
+    "id" : "6",
+    "name" : "Entertainment / Night Club",
+    "desc" : "Finding a good health service around your place",
+    "amount" : "56",
+    "image" : "assets/icons/ic_music.svg"
+  },
+  {
+    "id" : "7",
+    "name" : "Shopping",
+    "desc" : "Finding a good marketplace around your place",
+    "amount" : "124",
+    "image" : "assets/icons/ic_shop.svg"
+  },
+  {
+    "id" : "8",
+    "name" : "Transport (Bus & Airport)",
+    "desc" : "Finding a transport service around your place",
+    "amount" : "5",
+    "image" : "assets/icons/ic_bus.svg"
+  },
+  {
+    "id" : "9",
+    "name" : "Attractions",
+    "desc" : "Finding a good attraction around your place",
+    "amount" : "73",
+    "image" : "assets/icons/ic_attractions.svg"
+  },
+  {
+    "id" : "10",
+    "name" : "Tour Operation",
+    "desc" : "Finding a good tourist place around your place",
+    "amount" : "66",
+    "image" : "assets/icons/ic_operator.svg"
+  },
+  {
+    "id" : "11",
+    "name" : "School",
+    "desc" : "Finding a good education around your place",
+    "amount" : "36",
+    "image" : "assets/icons/ic_school.svg"
+  },
+  {
+    "id" : "12",
+    "name" : "NGOs",
+    "desc" : "Finding a NGO service around your place",
+    "amount" : "84",
+    "image" : "assets/icons/ic_ngo.svg"
+  },
+  {
+    "id" : "13",
+    "name" : "Restaurants & Coffee",
+    "desc" : "Finding a good restaurants around your place",
+    "amount" : "999",
+    "image" : "assets/icons/ic_restaurant.svg"
+  },
+  {
+    "id" : "14",
+    "name" : "Embassies",
+    "desc" : "Finding a good transport service around your place",
+    "amount" : "57",
+    "image" : "assets/icons/ic_embassy.svg"
+  },
+  {
+    "id" : "15",
+    "name" : "Emergency Contracts",
+    "desc" : "Finding a good transport service around your place",
+    "amount" : "3",
+    "image" : "assets/icons/ic_emergency.svg"
+  }
+]

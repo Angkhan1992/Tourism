@@ -1,0 +1,82 @@
+[
+  {
+    "id" : "1",
+    "name" : "Luang Prabang",
+    "desc" : "Luang Prabang, the ancient capital of Luang Prabang Province in northern Laos, lies in a valley at the confluence of the Mekong and Nam Khan rivers. Inhabited for thousands of years, it was the royal capital of the country until 1975. It’s known for its many Buddhist temples, including the gilded Wat Xieng Thong, dating to the 16th century, and Wat Mai, once the residence of the head of Laotian Buddhism.",
+    "image" : "assets/images/img_top_01.jpg",
+    "rate" : "4.8",
+    "review" : "100K"
+  },
+  {
+    "id" : "2",
+    "name" : "Mekong River",
+    "desc" : "The Mekong or Mekong River is a trans-boundary river in East Asia and Southeast Asia. It is the world's twelfth longest river and the sixth longest in Asia. Its estimated length is 4,909 km (3,050 mi),[1] and it drains an area of 795,000 km2 (307,000 sq mi), discharging 475 km3 (114 cu mi) of water annually.[2] From the Tibetan Plateau the river runs through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam.",
+    "image" : "assets/images/img_top_02.jpg",
+    "rate" : "4.2",
+    "review" : "1K"
+  },
+  {
+    "id" : "3",
+    "name" : "Vang Vieng",
+    "desc" : "Vang Vieng is a small town north of Vientiane, on the Nam Song River in Laos. It's surrounded by striking limestone mountains and caves. Tham Poukham, to the west, is a cave with a blue-green lagoon and a reclining Buddha statue. North is the deep Tham Nam Cave, which has a spring at its entrance. Nearby, Tham Xang Cave has a stalactite resembling an elephant. The town is home to 16th- and 17th-century monasteries.",
+    "image" : "assets/images/img_top_03.jpg",
+    "rate" : "4.8",
+    "review" : "100K"
+  },
+  {
+    "id" : "4",
+    "name" : "Si Phan Don",
+    "desc" : "The Si Phan Don (Lao: ສີ່ພັນດອນ; meaning '4,000 islands') is a riverine archipelago in the Mekong River, Champasak Province in southern Laos. Si Phan Don is part of Khong District, including the islands and part of the mainland in the east. Si Phan Don is dotted with numerous islands, half of which are submerged when the Mekong River is in flood. The principal islands of Si Phan Don are Don Khong (the largest), Don Som (the second largest), Don Det and Don Khon.",
+    "image" : "assets/images/img_top_04.jpg",
+    "rate" : "4.7",
+    "review" : "1K"
+  },
+  {
+    "id" : "5",
+    "name" : "Plain of Jars",
+    "desc" : "The Plain of Jars (Lao: ທົ່ງໄຫຫິນ Thong Hai Hin, [tʰōŋ hǎj hǐn]) is a megalithic archaeological landscape in Laos. It consists of thousands of stone jars scattered around the upland valleys and the lower foothills of the central plain of the Xiangkhoang Plateau. The jars are arranged in clusters ranging in number from one to several hundred. The Xiangkhoang Plateau is at the northern end of the Annamese Cordillera, the principal mountain range of Indochina.",
+    "image" : "assets/images/img_top_05.jpg",
+    "rate" : "4.4",
+    "review" : "162"
+  },
+  {
+    "id" : "6",
+    "name" : "Wat Xieng Thong",
+    "desc" : "Wat Xieng Thong (Lao: ວັດຊຽງທອງ; \"Temple of the Golden City\") is a Buddhist temple (vat or wat) on the northern tip of the peninsula of Luang Phrabang, Laos. Built between 1559 to 1560 by King Setthathirath, Wat Xieng Thong is one of the most important of Lao monasteries and remains a significant monument to the spirit of religion, royalty and traditional art.",
+    "image" : "assets/images/img_top_06.jpg",
+    "rate" : "4.5",
+    "review" : "2K"
+  },
+  {
+    "id" : "7",
+    "name" : "Pha That Luang",
+    "desc" : "Pha That Luang (Lao: ວຽງຈັນ or ທາດຫຼວງ, IPA: [tʰâːt lwǎːŋ] 'Great Stupa') is a gold-covered large Buddhist stupa in the centre of the city of Vientiane, Laos. Since its initial establishment, suggested to be in the 3rd century AD, the stupa has undergone several reconstructions as recently as the 1930s due to foreign invasions of the area. It is generally regarded as the most important national monument in Laos and a national symbol.",
+    "image" : "assets/images/img_top_07.jpg",
+    "rate" : "4.4",
+    "review" : "3K"
+  },
+  {
+    "id" : "8",
+    "name" : "Vat Phu",
+    "desc" : "Vat Phou (or Wat Phu; Lao: ວັດພູ [wāt pʰúː] temple-mountain) is a ruined Khmer Hindu temple complex in southern Laos. It is at the base of mount Phou Khao, some 6 kilometres (3.7 mi) from the Mekong in Champasak Province. There was a temple on the site as early as the 5th century, but the surviving structures date from the 11th to 13th centuries. It has a unique structure: The elements lead to a shrine where a lingam dedicated to Lord Shiva was bathed in water from a mountain spring.",
+    "image" : "assets/images/img_top_08.jpg",
+    "rate" : "4.4",
+    "review" : "995"
+  },
+  {
+    "id" : "9",
+    "name" : "Pak Ou Caves",
+    "desc" : "Near Pak Ou (mouth of the Ou river) the Tham Ting (lower cave) and the Tham Theung (upper cave) are caves overlooking the Mekong River, 25 km to the north of Luang Prabang, Laos. They are a group of two caves on the west side of the Mekong river, about two hours upstream from the centre of Luang Prabang, and are frequently visited by tourists. The caves are noted for their miniature Buddha sculptures.",
+    "image" : "assets/images/img_top_09.jpg",
+    "rate" : "3.6",
+    "review" : "731"
+  },
+  {
+    "id" : "10",
+    "name" : "Vieng Xai",
+    "desc" : "The caves around the village of Vieng Xai were home to the Pathet Lao leadership and thousands of civilians for almost a decade during the 'Secret War' that the United States of America waged on Laos between 1964 to 1973. Hidden amongst a spectacular range of limestone cliffs is a complex network of caves, some which which have recently been opened to the public. The caves were like underground cities, with hospitals, schools and even theatres.",
+    "image" : "assets/images/img_top_09.jpg",
+    "rate" : "4.6",
+    "review" : "1K"
+  }
+]
